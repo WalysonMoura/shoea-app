@@ -1,1 +1,1 @@
-# shoea-app
+# shoea-app  npx create-expo-stack
